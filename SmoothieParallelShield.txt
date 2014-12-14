@@ -1,0 +1,74 @@
+eeschema (2013-05-31 BZR 4019)-stable  >> Creation date: 12/14/2014 10:39:41 AM
+#Cmp ( order = Reference )
+| C1         C           
+| C2         C           
+| C3         C           
+| C4         C           
+| C5         C           
+| C6         C           
+| C7         C           
+| C8         C           
+| D1         DIODESCH    
+| D2         DIODESCH    
+| J1         DB25        
+| JP1        JUMPER3     
+| K1         CONN_3      
+| K4         CONN_3      
+| P1         CONN_4      
+| P2         CONN_4      
+| P3         CONN_4      
+| P4         CONN_4      
+| P5         CONN_4      
+| P6         CONN_3X2    
+| P7         CONN_3X2    
+| P8         CONN_4      
+| P9         CONN_5      
+| P10        CONN_5X2    
+| P11        CONN_5X2    
+| P12        CONN_6      
+| RP1        R_PACK8     
+| RP2        R_PACK8     
+| RP3        R_PACK8     
+| U1         7805        
+| U2         TXS0108E    
+| U3         TXS0108E    
+| U4         TXS0108E    
+#End Cmp
+
+#Cmp ( order = Value )
+| C            C1        
+| C            C2        
+| C            C3        
+| C            C4        
+| C            C5        
+| C            C6        
+| C            C7        
+| C            C8        
+| DIODESCH     D1        
+| DIODESCH     D2        
+| DB25         J1        
+| JUMPER3      JP1       
+| CONN_3       K1        
+| CONN_3       K4        
+| CONN_4       P1        
+| CONN_4       P2        
+| CONN_4       P3        
+| CONN_4       P4        
+| CONN_4       P5        
+| CONN_3X2     P6        
+| CONN_3X2     P7        
+| CONN_4       P8        
+| CONN_5       P9        
+| CONN_5X2     P10       
+| CONN_5X2     P11       
+| CONN_6       P12       
+| R_PACK8      RP1       
+| R_PACK8      RP2       
+| R_PACK8      RP3       
+| 7805         U1        
+| TXS0108E     U2        
+| TXS0108E     U3        
+| TXS0108E     U4        
+#End Cmp
+
+#End List
